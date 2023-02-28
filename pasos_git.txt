@@ -4,6 +4,6 @@
 - git push -u origin main
 - git pull
 - git add .
-- git commit -m "comit inicial de esta carpeta"
+- git commit -m "commit inicial de esta carpeta"
 - git remote -v
-- git push origin <rama>
+- git push origin main
