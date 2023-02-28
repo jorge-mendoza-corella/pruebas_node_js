@@ -1,8 +1,8 @@
 - Crear nuevo repo en github, copiarlo
 - git init
 - git remote add origin https://github.com/jorge-mendoza-corella/pruebas_node_js.git <repo de github>
-- git pull
 - git checkout <rama>
+- git pull
 - git add .
 - git commit -m "comit inicial de esta carpeta"
 - git remote -v
